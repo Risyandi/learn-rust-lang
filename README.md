@@ -4,4 +4,4 @@ Langkah awal memulai belajar bahasa pemrograman rust yaitu menginstall terlebih 
 Kenapa Memilih belajar Rust ?  
 Kita bisa melihat gambar dibawah ini ada 3 point penting yaitu (performance, reliability, productivity).
 
-![Why Rust](img/why-rust.png) *source: rust-lang.org*  
+![Why Rust](./img/why-rust.png) *source: rust-lang.org*  
