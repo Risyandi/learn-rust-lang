@@ -4,7 +4,10 @@ Setelah kamu mengunduh file *rustup-init.exe* selanjutnya jalankan file tersebut
 ![rust installasi 1](../img/rust-install-1.png)  
 *source: rust install di windows*  
 
-Anda diminta untuk mengikuti prasyarat dimana dikomputer anda harus terinstall *Microsoft C++ build* yang biasanya sudah include jika kamu menginstall IDE Visual Studio Code.  
+Anda diminta untuk mengikuti prasyarat dimana dikomputer anda harus terinstall ***Microsoft C++ build*** yang biasanya sudah include jika kamu menginstall IDE Visual Studio Code.
+untuk menginstall *visual c++ build tools* nya secara terpisah kamu bisa mengunduh file nya [disini](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16) dan pilih menu *c++ build tools* dan lakukan proses install.   
+
+> *Noted: pastikan kamu sudah menginstall Visual C++ Build Tools*
 
 ![rust installasi 2](../img/rust-install-2.png)  
 *source: rust install di windows*  
