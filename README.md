@@ -5,3 +5,6 @@ Kenapa Memilih belajar Rust ?
 Kita bisa melihat gambar dibawah ini ada 3 point penting yaitu (performance, reliability, productivity).
 
 ![Why Rust](img/why-rust.PNG) *source: rust-lang.org*  
+
+# Praktek
+1. [Membuat Hello World](docs/hello-world.md)
